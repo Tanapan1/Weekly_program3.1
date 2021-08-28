@@ -20,4 +20,5 @@ int main() {
 		printf("year %d, A = %.2f ,B = %.2f\n", year, popA, popB);
 	} while (popA <= popB);
 	printf("Duration =   %d years", year);
+	return 0;
 }
